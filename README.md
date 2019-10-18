@@ -4,7 +4,7 @@ Folder containing various projects
 
 ## Web Development
 
-Development of 2 websites using WordPress technology, while being a consultant for ISEP Junior Entreprise
+Development of 2 websites using WordPress technology, while being a **consultant** for ISEP Junior Entreprise
 
 - [Syneria](https://syneria.eu) for a European consulting firm in environmental technology
 
