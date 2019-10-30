@@ -6,12 +6,12 @@ Folder containing projects in various fields
 
 Development of 2 websites using WordPress technology, while being a **consultant** for ISEP Junior Entreprise [Junior ISEP](https://juniorisep.com/)
 
-- [Syneria](https://syneria.eu) for a European consulting firm in environmental technology
+- [Syneria](https://syneria.eu) for an European consulting firm in environmental technology
 
 - [Parsy Fine Properties](https://parsyfineproperties.fr) for a French real-estate agency
 
 
-## Real-estate 
+## Real-Estate Data exploratory analysis and mapping
 
 - [Paris Map 1](https://drive.google.com/open?id=1bYKrzYddpg0RCIuHa554BcsgRQOnFXPc&usp=sharing) showing **the average m² price** for all Paris neighborhoods on a small and precise scale and giving you other information (number of transactions per year, average area, average price growth year after year, ...) for each neighborhood
 
