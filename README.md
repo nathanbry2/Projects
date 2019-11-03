@@ -31,9 +31,9 @@ After a long data cleaning work of all Paris transactions (+100 000) contained i
 ### Real Estate Estimation Interface
 
 Using Google Sheets and the previously cleaned Data, I have created an **estimation interface** allowing people to get an **estimated value** for their real estate properties in Paris. This estimated value comes with a pretty visual document giving **valuable insights** (price growth over the years, average price, average surface) on the neighborhood the property belongs to, as well as information on the neighborhood (beautiful pictures, best places, quick description).
-Instructions on how to use the Estimator are inside.
+Instructions on how to use the Estimator are inside (only available in French at the moment).
 
-- [Estimator]https://docs.google.com/spreadsheets/d/1-yrTY5q0C5gitchko1oKf6UgsnxUQwgEUAmis2YKYtg/edit?usp=sharing
+- [Estimator](https://docs.google.com/spreadsheets/d/1-yrTY5q0C5gitchko1oKf6UgsnxUQwgEUAmis2YKYtg/edit?usp=sharing)
 
 ### Article redaction
 
