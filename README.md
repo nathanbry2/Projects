@@ -28,6 +28,13 @@ After a long data cleaning work of all Paris transactions (+100 000) contained i
 
 - [Paris Map 2](https://drive.google.com/open?id=1b_0M5x9MTc8AH3XkYjj8f7i3TtrWi5X1&usp=sharing) showing **the average m² price growth** for all Paris neighborhoods on a small and precise scale and giving you other information (number of transactions per year, average price per m², average area, average price growth year after year, ...) for each neighborhood
 
+### Real Estate Estimation Interface
+
+Using Google Sheets and the previously cleaned Data, I have created an **estimation interface** allowing people to get an **estimated value** for their real estate properties in Paris. This estimated value comes with a pretty visual document giving **valuable insights** (price growth over the years, average price, average surface) on the neighborhood the property belongs to, as well as information on the neighborhood (beautiful pictures, best places, quick description).
+Instructions on how to use the Estimator are inside.
+
+- [Estimator]https://docs.google.com/spreadsheets/d/1-yrTY5q0C5gitchko1oKf6UgsnxUQwgEUAmis2YKYtg/edit?usp=sharing
+
 ### Article redaction
 
 - Redaction of an [article](https://www.proprioo.fr/blog/dynamiques-quartiers-parisiens/) for Proprioo's blog [Parages](https://www.proprioo.fr/blog/) in French about Paris real estate price and dynamism trends after long analyses of the Paris notarial bases (containing all real estate transactions from 2015 to 2018)
