@@ -35,6 +35,14 @@ Instructions on how to use the Estimator are inside (only available in French at
 
 - [Estimator](https://docs.google.com/spreadsheets/d/1-yrTY5q0C5gitchko1oKf6UgsnxUQwgEUAmis2YKYtg/edit?usp=sharing)
 
+Here are some examples of the documents the Estimator can generate: 
+
+- [Example1](https://drive.google.com/file/d/154GBYd5a3Awr08dwo1R8_bKwAVM9fEcc)
+
+- [Example2](https://drive.google.com/file/d/1USm8pGZTP1PS8LFlZe39TT54oUiYpmns)
+
+- [Example3](https://drive.google.com/open?id=1nP-y3IQyQOYkRv-oZBPUz-RqNnMlCGu9)
+
 ### Article redaction
 
 - Redaction of an [article](https://www.proprioo.fr/blog/dynamiques-quartiers-parisiens/) for Proprioo's blog [Parages](https://www.proprioo.fr/blog/) in French about Paris real estate price and dynamism trends after long analyses of the Paris notarial bases (containing all real estate transactions from 2015 to 2018)
