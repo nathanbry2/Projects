@@ -48,9 +48,9 @@ The first part of the project was about **gathering Data**. Even though several 
 
 Right below are the Notebook containing my code and the dataset I have created.
 
-- [View in GitHub](https://github.com/nathanbry2/Projects/blob/master/Pokemon%20Project%20-%20Scraping%20Part.ipynb)
+- [Notebook - View in GitHub](https://github.com/nathanbry2/Projects/blob/master/Pokemon%20Project%20-%20Scraping%20Part.ipynb)
 
-- [View with nbviewer (recommended for much better visualization)](https://nbviewer.jupyter.org/github/nathanbry2/Projects/blob/master/Pokemon%20Project%20-%20Scraping%20Part.ipynb)
+- [Notebook - View with nbviewer (recommended for much better visualization)](https://nbviewer.jupyter.org/github/nathanbry2/Projects/blob/master/Pokemon%20Project%20-%20Scraping%20Part.ipynb)
 
-- The created dataset can be found [here](https://github.com/nathanbry2/Projects/blob/master/pokemon_dataset.csv)
+- [Dataset](https://github.com/nathanbry2/Projects/blob/master/pokemon_dataset.csv)
 
