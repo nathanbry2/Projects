@@ -1,6 +1,6 @@
 # Projects
 
-Repository containing projects in various fields
+Repository containing Tech projects in various fields
 
 ## Web Development
 
