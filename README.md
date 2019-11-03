@@ -40,3 +40,17 @@ Data Analysis project done with **Python** and using several Data Science librar
 
 - [View with nbviewer (recommended for much better visualization)](https://nbviewer.jupyter.org/github/nathanbry2/Projects/blob/master/Football_Analyses.ipynb)
 
+## Pokemon Data Project
+
+### Scraping Part
+
+The first part of the project was about **gathering Data**. Even though several Pokemon datasets already exist, I wanted to create mine, using **web scraping**. I parsed the website [Pokemon Database](https://pokemondb.net/pokedex/all) which lists all necessary information on any existing Pokemon, using Python and the Beautiful Soup parsing library.
+
+Right below are the Notebook containing my code and the dataset I have created.
+
+- [View in GitHub](https://github.com/nathanbry2/Projects/blob/master/Pokemon%20Project%20-%20Scraping%20Part.ipynb)
+
+- [View with nbviewer (recommended for much better visualization)](https://nbviewer.jupyter.org/github/nathanbry2/Projects/blob/master/Pokemon%20Project%20-%20Scraping%20Part.ipynb)
+
+- The created dataset can be found [here](https://github.com/nathanbry2/Projects/blob/master/pokemon_dataset.csv)
+
