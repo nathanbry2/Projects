@@ -1,10 +1,10 @@
 # Projects
 
-Folder containing projects in various fields
+Repository containing projects in various fields
 
 ## Web Development
 
-Development of 2 websites using WordPress technology, while being a **consultant** for ISEP Junior Entreprise [Junior ISEP](https://juniorisep.com/)
+Development of 2 websites using WordPress technology, while being a **web consultant** for ISEP Junior Entreprise [Junior ISEP](https://juniorisep.com/)
 
 - [Syneria](https://syneria.eu) for an European consulting firm in environmental technology
 
@@ -19,7 +19,7 @@ Development of 2 websites using WordPress technology, while being a **consultant
 
 ## Football Data Analyses Project
 
-Data Analysis project done with Python and using several Data Science libraries (Pandas, Numpy, Matplotlib, seaborn) in order to get valuable insights from several football datasets and produce nice plots (including interesting heatmaps). Datasets have be collected by [Wyscout](https://wyscout.com/) and can be downloaded [here](https://figshare.com/collections/Soccer_match_event_dataset/4415000).
+Data Analysis project done with **Python** and using several Data Science libraries (**Pandas, Numpy, Matplotlib, seaborn**) in order to get valuable insights from several football datasets and produce nice plots (including interesting **heatmaps**). Datasets have be collected by [Wyscout](https://wyscout.com/) and can be downloaded [here](https://figshare.com/collections/Soccer_match_event_dataset/4415000).
 
 - [View in GitHub](https://github.com/nathanbry2/Projects/blob/master/Football_Analyses.ipynb)
 
