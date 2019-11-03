@@ -19,6 +19,8 @@ Development of 2 websites using WordPress technology, while being a **consultant
 
 ## Football Data Analyses Project
 
+Data Analysis project done with Python and using several Data Science libraries (Pandas, Numpy, Matplotlib, seaborn) in order to get valuable insights from several football datasets and produce nice plots (including interesting heatmaps). Datasets have be collected by [Wyscout](https://wyscout.com/) and can be downloaded [here](https://figshare.com/collections/Soccer_match_event_dataset/4415000).
+
 - [View in GitHub](https://github.com/nathanbry2/Projects/blob/master/Football_Analyses.ipynb)
 
 - [View with nbviewer (recommended for much better visualization)](https://nbviewer.jupyter.org/github/nathanbry2/Projects/blob/master/Football_Analyses.ipynb)
