@@ -13,6 +13,7 @@ Development of 2 websites using **WordPress** technology, while being a **web co
 
 
 ## Real Estate Data projects exploratory analysis and mapping
+*SQL, Data Cleaning with Python & Google Sheets*
 
 Following my internship at [Proprioo](https://www.proprioo.fr/), a French startup reinventing real estate with digital tools where I set-up the Data department, I developed a great interest in real estate Data. 
 
