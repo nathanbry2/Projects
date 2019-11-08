@@ -3,8 +3,9 @@
 Repository containing Tech projects in various fields
 
 ## Web Development
+*WordPress, HTML, CSS*
 
-Development of 2 websites using WordPress technology, while being a **web consultant** for ISEP Junior Entreprise [Junior ISEP](https://juniorisep.com/)
+Development of 2 websites using **WordPress** technology, while being a **web consultant** for ISEP Junior Entreprise [Junior ISEP](https://juniorisep.com/)
 
 - [Syneria](https://syneria.eu) for an European consulting firm in environmental technology
 
