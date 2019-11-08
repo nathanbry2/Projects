@@ -23,6 +23,7 @@ Notarial bases can be downloaded [here](https://www.data.gouv.fr/fr/datasets/5c4
 Following this release I started several real estate projects using these data.
 
 ### Mapping
+*Google Sheets & Google Maps*
 
 After a long data cleaning work of all Paris transactions (+100 000) contained in the notarial bases, I aggregated these transactions by [pluscode system](https://plus.codes/) developed by Google in order to create "neighborhoods" of around 75000m² with aggregated data in order to have an **evolution of Paris real estate price and dynamism**. After cleaning and aggregating data, I used Google Maps to plot these neighborhoods and create **interactive maps** containing all the Data.
 
@@ -31,6 +32,7 @@ After a long data cleaning work of all Paris transactions (+100 000) contained i
 - [Paris Map 2](https://drive.google.com/open?id=1b_0M5x9MTc8AH3XkYjj8f7i3TtrWi5X1&usp=sharing) showing **the average m² price growth** for all Paris neighborhoods on a small and precise scale and giving you other information (number of transactions per year, average price per m², average area, average price growth year after year, ...) for each neighborhood
 
 ### Real Estate Estimation Interface
+*Google Sheets formulas*
 
 Using Google Sheets and the previously cleaned Data, I have created an **estimation interface** allowing people to get an **estimated value** for their real estate properties in Paris. This estimated value comes with a pretty visual document giving **valuable insights** (price growth over the years, average price, average surface) on the neighborhood the property belongs to, as well as information on the neighborhood (beautiful pictures, best places, quick description).
 Instructions on how to use the Estimator are inside (only available in French at the moment).
@@ -46,10 +48,12 @@ Here are some examples of the documents the Estimator can generate:
 - [Example3](https://drive.google.com/open?id=1nP-y3IQyQOYkRv-oZBPUz-RqNnMlCGu9)
 
 ### Article redaction
+*SQL*
 
 - Redaction of an [article](https://www.proprioo.fr/blog/dynamiques-quartiers-parisiens/) for Proprioo's blog [Parages](https://www.proprioo.fr/blog/) in French about Paris real estate price and dynamism trends after long analyses of the Paris notarial bases (containing all real estate transactions from 2015 to 2018)
 
 ## Football Data Analysis Project
+*Python - Pandas, Numpy, Matplotlib, seaborn*
 
 Data Analysis project done with **Python** and using several Data Science libraries (**Pandas, Numpy, Matplotlib, seaborn**) in order to get valuable insights from several football datasets and produce nice plots (including interesting **heatmaps**). Datasets have be collected by [Wyscout](https://wyscout.com/) and can be downloaded [here](https://figshare.com/collections/Soccer_match_event_dataset/4415000).
 
@@ -60,6 +64,7 @@ Data Analysis project done with **Python** and using several Data Science librar
 ## Pokemon Data Project
 
 ### Scraping Part
+*Web Scraping with Python BeautifulSoup, Pandas*
 
 The first part of the project was about **gathering Data**. Even though several Pokemon datasets already exist, I wanted to create mine, using **web scraping**. I parsed the website [Pokemon Database](https://pokemondb.net/pokedex/all) which lists all necessary information on any existing Pokemon, using Python and the Beautiful Soup parsing library.
 
