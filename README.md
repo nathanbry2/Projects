@@ -61,6 +61,14 @@ Data Analysis project done with **Python** and using several Data Science librar
 
 - [View with nbviewer (recommended for much better visualization)](https://nbviewer.jupyter.org/github/nathanbry2/Projects/blob/master/Football_Analyses.ipynb)
 
+## Wisconsin Breast Cancer Prediction Project
+*Python - Pandas, Matplotlib, seaborn, scikit-learn*
+
+Data Science project done with **Python** and using several Data Science libraries (**Pandas, Matplotlib, seaborn, scikit-learn**) in order to get valuable insights on what are the main features when it comes to sort out benign and malignant tumours. We will then build a Random Forest Classifier to predict these outcomes. Data can be found [here](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+
+- [View in GitHub](https://github.com/nathanbry2/Projects/blob/master/Wisconsin_Breast_Cancer.ipynb)
+- [View with nbviewer (recommended for much better visualization)](https://nbviewer.jupyter.org/github/nathanbry2/Projects/blob/master/Wisconsin_Breast_Cancer.ipynb)
+
 ## Pokemon Data Project
 
 ### Scraping Part
