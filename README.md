@@ -84,3 +84,6 @@ Right below are the Notebook containing my code and the dataset I have created.
 
 - [Dataset](https://github.com/nathanbry2/Projects/blob/master/pokemon_dataset.csv)
 
+## COVID-19 confirmed cases visualization 
+
+Using Flourish Studio software and scraped COVID-19 Data I made this [Bar Chart Race video](https://public.flourish.studio/visualisation/1560411/) to show the crazy evolution of the number of confirmed COVID-19 cases per country over time.
